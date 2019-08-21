@@ -4,10 +4,10 @@
 
 - requirements
 
-1- Discord account's token.
-2- Server 24H
-3- Discord server for spaming.
-4- channels id that u want to spam in.
+* Discord account's token.
+* Server 24H
+* Discord server for spaming.
+* channels id that u want to spam in.
 
 - نصائح لتجنب البلوك ليست
 
